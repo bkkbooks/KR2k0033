@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2k0033/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書史部十一
+  hash: sha256:5f8ab01fbfc809cc911a707e5aa22577e1ed198056f701795ddffcd84b7bc12f
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0033_WYG_000-1a, image: WYG0494/WYG0494-0097a.png}
+body:
+  text: 滇略地理類三都會郡縣之屬提要臣等謹案滇略十卷明謝肇浙撰肇浙有史觽已著録此書乃其官雲南時所作分為十門一曰版略志疆域也二曰勝略志山川也三曰産略志物産也四曰俗略志民風也五曰續略志名宦也六曰獻略志鄉賢也七曰事略志故實也八曰文略志藝文也九曰夷略志苗種也十曰雜略志瑣聞也雖大抵本圖經舊文稍益以新事然肇浙本文士于記誦亦頗博洽故是書引據有徵叙述有法較諸家地志體例特為雅潔薛承矩序稱其上以搜楊終常璩之所未及下以補辛顯怡李京楊慎田汝成諸紀載之漏遺杭世駿道援堂集有是書跋亦謂其詳逺略近博觀而約取蒼山洱水之墟稱善史焉均非溢詞也乾隆四十三年六月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:fffec6152c2e8efd60f2fdbf6bbf7ed0261cafaecd3a414e4e5cac82c15b1284
+metadata:
+  title: 滇略
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:40:08.086742'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR2k0033/KR2k0033_000.txt
+hash: sha256:cb29e9d4123b59c629acdff3349b668fcf18017d6eafda2a8a90498e614a1749
